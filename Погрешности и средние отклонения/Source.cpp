@@ -125,7 +125,7 @@ int main()
     cout << endl;
 
     //Чтение грубых измерений
-    ifstream coarse_file("Грубые1.txt");
+    ifstream coarse_file("Грубые.txt");
     string linee;
     vector<double> coarse_values;
 
